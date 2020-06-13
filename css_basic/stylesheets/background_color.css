@@ -1,0 +1,14 @@
+h2{
+  background-color:  #4587BD;
+  /* border-style: solid;
+  border-color: #e2B483;
+  border-width: 10px; */
+  border:#e2B483 10px solid;
+  color:#FFF
+}
+body {
+  /* background-color: #CCCCCC; */
+  background-image: url(../images/dot.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
